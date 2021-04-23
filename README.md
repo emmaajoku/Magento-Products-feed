@@ -1,2 +1,2 @@
 # Magento-Products-feed
-A module for generating product feeds . for magento2
+A Magento 2 module for generating product feeds . for magento2
